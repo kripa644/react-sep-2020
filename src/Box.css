@@ -1,0 +1,18 @@
+.Box {
+    border: 4px dashed blue;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+}
+.ThickBorder {
+    background-color: #333;
+    color: red;
+}
+.Box--rounded {
+    border-radius: 50%;
+}
+.Box--rectangle {
+    height: 50px;
+    width: 100px;
+}
+
